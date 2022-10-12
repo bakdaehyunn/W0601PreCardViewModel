@@ -1,9 +1,9 @@
-package kr.ac.kumoh.prof.w0501precarddealer
+package kr.ac.kumoh.student1.w0601cardViewmodel
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import kr.ac.kumoh.prof.w0501precarddealer.databinding.ActivityMainBinding
+import kr.ac.kumoh.student1.w0601cardViewmodel.databinding.ActivityMainBinding
 import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {
